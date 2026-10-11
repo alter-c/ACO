@@ -1,2 +1,2 @@
-# Ant Colony Optimization
-利用蚁群算法(ACO)求解TSP问题
+# Refined Ant Colony Optimization
+利用优化的蚁群算法(ACO)求解TSP问题
